@@ -658,7 +658,7 @@ export default {
       allItems: [],
       discount_percentage_offer_name: null,
       invoiceTypes: ['Invoice', 'Order'],
-      invoiceType: 'Order',
+      invoiceType: 'Invoice',
       itemsPerPage: 1000,
       expanded: [],
       singleExpand: true,
